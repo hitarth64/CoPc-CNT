@@ -1,0 +1,2 @@
+# CoPc-CNT
+Optimized geometries
